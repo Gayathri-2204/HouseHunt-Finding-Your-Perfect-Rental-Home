@@ -67,8 +67,12 @@ This project was developed during the **SmartBridge Internship** as part of a pr
 ### ⚙️ Backend Setup
 
 ```bash
-cd backend
+
+cd backend:
+
 npm install
+
+---
 
 ##Create a .env file inside /backend:
 
@@ -76,17 +80,27 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
-##Start the backend server:
+---
+
+Start the backend server:
 
 npm start
 
+---
+
 ##🎨 Frontend Setup
+
+---
 
 cd frontend
 npm install
 npm start
 
+---
+
 ##📁 Folder Structure
+
+---
 
 HouseHunt/
 ├── backend/
@@ -115,9 +129,12 @@ HouseHunt/
 │   ├── .gitignore
 │   ├── package.json
 
+---
 
-##📄 Project Templates
+📄 Project Templates
 🗂️ Click here to view the complete documentation folder on Google Drive
+
+---
 
 Includes:
 
@@ -131,7 +148,9 @@ Includes:
 
 🔹 Team Contributions and Learnings
 
-##🙏 Gratitude
+---
+
+🙏 Gratitude
 Special thanks to SmartBridge and our mentors for guiding us throughout this enriching internship experience.
 
 🌱 Future Enhancements
