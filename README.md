@@ -10,22 +10,25 @@
 This project was developed during the **SmartBridge Internship** as part of a practical training experience.
 
 ---
-👥 Team Information
-🆔 Team ID: LTVIP2025TMID55971
-👥 Team Size: 4 Members
+## 👥 Team Information
 
-🔹 Team Members:
-💼 Macharla Reshma Sri — Team Leader
-🔗 LinkedIn
+- **🆔 Team ID:** `LTVIP2025TMID55971`  
+- **👥 Team Size:** 4 Members  
 
-💼 Appanabhotla Janani — Team Member
-🔗 LinkedIn
+### 🔹 Team Members:
 
-💼 Gunturu Lakshmi Gayathri — Team Member
-🔗 LinkedIn
+- 💼 **Macharla Reshma Sri** — *Team Leader*  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/macharlareshmasri5)
 
-💼 Gudivaka Srija — Team Member
-🔗 LinkedIn
+- 💼 **Appanabhotla Janani** — *Team Member*  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/janani-appanabhotla-409626302)
+
+- 💼 **Gunturu Lakshmi Gayathri** — *Team Member*  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/gunturu-lakshmi-gayathri1444362a7)
+
+- 💼 **Gudivaka Srija** — *Team Member*  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/srija-gudivaka-60a25a349)
+
 
 ## ✨ Key Features
 
