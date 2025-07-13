@@ -1,7 +1,7 @@
 # HouseHunt-Finding-Your-Perfect-Rental-Home
 🏠 House Hunt is a web app that helps users find their ideal rental homes. Users can search based on location, budget, and preferences, view detailed property info, and make booking or inquiry requests. It offers an easy and interactive experience for house seekers.
 
-🎥 [Watch Demo Video]([https://github.com/Janani0511/HouseHunt-Finding-Your-Perfect-Rental-Home/blob/master/Video%20Demo/HouseHunt_Demo.mp4.mp4](https://github.com/Gayathri-2204/HouseHunt-Finding-Your-Perfect-Rental-Home/blob/main/Video/Video-Demo%20for%20House%20Hunt%20(2).mp4))
+🎥 [Watch Demo Video](https://github.com/Janani0511/HouseHunt-Finding-Your-Perfect-Rental-Home/blob/master/Video%20Demo/HouseHunt_Demo.mp4.mp4](https://github.com/Gayathri-2204/HouseHunt-Finding-Your-Perfect-Rental-Home/blob/main/Video/Video-Demo%20for%20House%20Hunt%20(2).mp4)
 ---
 ## 📘 Project Overview
 
