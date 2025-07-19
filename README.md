@@ -83,7 +83,7 @@ npm install
 npm start
 ```
 
-Visit: http://localhost:3000
+
 
 ## 📁 Folder Structure
 
@@ -156,108 +156,6 @@ Gratitude to SmartBridge and our mentors for guiding us through this enriching i
 
 🌱 Future Enhancements
 
-📲 Mobile version (React Native)
-
-📍 Google Maps integration
-
-🔔 Notifications system
-
-💬 Live Chat between renters and owners
-
-📊 Admin Analytics Dashboard
-
-## 💻 Local Setup Instructions
-
-### ⚙️ Backend Setup
-
-```bash
-
-cd backend:
-
-npm install
-
----
-
-##Create a .env file inside /backend:
-
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-
----
-
-Start the backend server:
-
-npm start
-
----
-
-##🎨 Frontend Setup
-
----
-
-cd frontend
-npm install
-npm start
-
----
-
-##📁 Folder Structure
-
----
-
-HouseHunt/
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middlewares/
-│   ├── routes/
-│   ├── schemas/
-│   ├── uploads/
-│   ├── .env
-│   ├── index.js
-│   ├── package.json
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── images/
-│   │   ├── modules/
-│   │   │   ├── admin/
-│   │   │   ├── common/
-│   │   │   ├── user/
-│   │   │   ├── Owner/
-│   │   │   └── renter/
-│   │   ├── AllPropertiesCards.jsx
-│   │   ├── App.js
-│   │   ├── index.js
-│   ├── .gitignore
-│   ├── package.json
-
----
-
-📄 Project Templates
-🗂️ Click here to view the complete documentation folder on Google Drive
-
----
-
-Includes:
-
-🔹 Project Overview & Objective
-
-🔹 Feature List and User Roles
-
-🔹 Database Schema & DFD
-
-🔹 Screenshots and Flowcharts
-
-🔹 Team Contributions and Learnings
-
----
-
-🙏 Gratitude
-Special thanks to SmartBridge and our mentors for guiding us throughout this enriching internship experience.
-
-🌱 Future Enhancements
 📲 Mobile version (React Native)
 
 📍 Google Maps integration
