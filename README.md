@@ -61,6 +61,110 @@ This project was developed during the **SmartBridge Internship** as part of a pr
 | JWT         | Token-based Authentication |
 
 ---
+---
+
+## 💻 Local Setup Instructions
+## ⚙️ Backend Setup
+
+```cd backend
+npm install
+Create a .env file inside /backend:
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+Start the backend server:
+npm start
+```
+
+Frontend Setup
+
+```cd frontend
+npm install
+npm start
+```
+
+Visit: http://localhost:3000
+
+## 📁 Folder Structure
+
+```HouseHunt/
+├── backend/
+│ ├── config/
+│ │ └── connect.js
+│ ├── controllers/
+│ ├── middlewares/
+│ ├── routes/
+│ │ ├── adminRoutes.js
+│ │ ├── ownerRoutes.js
+│ │ └── userRoutes.js
+│ ├── schemas/
+│ │ ├── bookingModel.js
+│ │ ├── propertyModel.js
+│ │ └── userModel.js
+│ ├── uploads/
+│ ├── .env
+│ ├── index.js
+│ ├── package.json
+│ └── package-lock.json
+│
+├── frontend/
+│ ├── public/
+│ ├── src/
+│ │ ├── images/
+│ │ ├── modules/
+│ │ │ ├── admin/
+│ │ │ ├── common/
+│ │ │ │ ├── ForgotPassword.jsx
+│ │ │ │ ├── Home.jsx
+│ │ │ │ ├── Login.jsx
+│ │ │ │ └── Register.jsx
+│ │ │ ├── user/
+│ │ │ ├── Owner/
+│ │ │ └── renter/
+│ │ ├── AllPropertiesCards.jsx
+│ │ ├── App.js
+│ │ ├── App.css
+│ │ └── index.js
+│ ├── .gitignore
+│ ├── package.json
+│ └── package-lock.json
+```
+
+## 📄 Project Templates
+
+🗂️ [Click here to view the complete documentation folder on Google Drive](https://drive.google.com/drive/folders/1xwzjEgESzgOuzVqcWou_QP-NAqAUKMKJ?usp=sharing)
+
+It includes:
+- 🔹 Project Overview & Objective
+- 🔹 Feature List and User Roles
+- 🔹 Database Schema & DFD
+- 🔹 Screenshots and Flowcharts
+- 🔹 Team Contributions and Learnings
+---
+👥 Team Members
+
+Janani
+
+Gayathri
+
+Reshma
+
+Srija
+
+Gratitude to SmartBridge and our mentors for guiding us through this enriching internship experience.
+---
+
+🌱 Future Enhancements
+
+📲 Mobile version (React Native)
+
+📍 Google Maps integration
+
+🔔 Notifications system
+
+💬 Live Chat between renters and owners
+
+📊 Admin Analytics Dashboard
 
 ## 💻 Local Setup Instructions
 
