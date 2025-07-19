@@ -141,15 +141,7 @@ It includes:
 - 🔹 Screenshots and Flowcharts
 - 🔹 Team Contributions and Learnings
 ---
-👥 Team Members
 
-Janani
-
-Gayathri
-
-Reshma
-
-Srija
 
 Gratitude to SmartBridge and our mentors for guiding us through this enriching internship experience.
 ---
